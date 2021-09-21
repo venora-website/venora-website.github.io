@@ -32,3 +32,11 @@
   background-color: #eee;
 }
 
+.carousel-control-prev:hover, .carousel-control-prev:focus, .carousel-control-next:hover, .carousel-control-next:focus {
+  filter: invert(100%);
+}
+
+.carousel-control-prev, .carousel-control-next {
+  filter: invert(100%);
+}
+
